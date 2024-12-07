@@ -25,11 +25,11 @@ To document and display my journey through various learning platforms, hackathon
 
 ### Open Source Contributions:
 - **[GSSoC 2024 Extended](https://gssoc.girlscript.tech/leaderboard?year=2024Extd&username=KGupta2601)**  
-![GSSoC Badge](https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png)
+
 
 ### Certifications:
 - **[GitHub Foundations](https://www.credly.com/badges/61c5b557-f003-4df4-b56b-b0811800e0fa/public_url)**  
-[![GitHub Foundations Badge](https://github.com/kashikaga/Badges/blob/main/github-foundations.png)]
+![GitHub Foundations Badge](https://github.com/kashikaga/Badges/blob/main/github-foundations.png)
 
 ---
 
